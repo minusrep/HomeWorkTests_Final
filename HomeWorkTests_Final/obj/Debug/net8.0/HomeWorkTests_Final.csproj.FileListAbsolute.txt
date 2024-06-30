@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\bin\Debug\net8.0\HomeWorkTests_Final.exe
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\bin\Debug\net8.0\HomeWorkTests_Final.deps.json
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\bin\Debug\net8.0\HomeWorkTests_Final.runtimeconfig.json
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\bin\Debug\net8.0\HomeWorkTests_Final.dll
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\bin\Debug\net8.0\HomeWorkTests_Final.pdb
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\obj\Debug\net8.0\HomeWorkTests_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\obj\Debug\net8.0\HomeWorkTests_Final.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\obj\Debug\net8.0\HomeWorkTests_Final.AssemblyInfo.cs
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\obj\Debug\net8.0\HomeWorkTests_Final.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\obj\Debug\net8.0\HomeWorkTests_Final.dll
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\obj\Debug\net8.0\refint\HomeWorkTests_Final.dll
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\obj\Debug\net8.0\HomeWorkTests_Final.pdb
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\obj\Debug\net8.0\HomeWorkTests_Final.genruntimeconfig.cache
+C:\Users\User\source\repos\HomeWorkTests_Final\HomeWorkTests_Final\obj\Debug\net8.0\ref\HomeWorkTests_Final.dll
